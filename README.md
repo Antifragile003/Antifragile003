@@ -1,4 +1,5 @@
-Hey! I'm D 👋 — a tech tinkerer and problem-solver. I get a kick out of building smart systems that actually do cool stuff, exploring AI and IoT, and turning crazy ideas into real, working projects.
+<h1 align="center">Hi 👋, I'm D</h1>
+<h3 align="center">Machine Learning & Edge AI Engineer</h3>
 
 <h3 align="left">🧩 Languages and Tools:</h3>
 <p align="left">
