@@ -28,3 +28,18 @@ Hey! I'm D 👋 — a tech tinkerer and problem-solver. I get a kick out of buil
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/>
 </p>
+<h3>📫 Connect with me</h3>
+<p>
+  <a href="https://www.linkedin.com/in/yourusername" target="_blank" rel="noopener">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  &nbsp;
+  <a href="https://www.kaggle.com/dhan0003" target="_blank" rel="noopener">
+    <img src="https://img.shields.io/badge/Kaggle-black?style=flat&logo=kaggle&logoColor=white" alt="Kaggle"/>
+  </a>
+  &nbsp;
+  <a href="mailto:dhanyashri2025@gmail.com" target="_blank" rel="noopener">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</p>
+
